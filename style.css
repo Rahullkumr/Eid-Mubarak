@@ -15,7 +15,7 @@ section{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: linear-gradient(#ffeb3b,#e91e63);	
+	background: linear-gradient(#aaeb3b,#e91e63);	
 }
 section h2{
 	position: relative;
